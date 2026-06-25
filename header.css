@@ -1,0 +1,143 @@
+.header{
+  position: fixed;
+  top:0;
+  left:0;
+  right:0;
+  bottom:20px;
+  height: 60px;
+  display:flex;
+justify-content: space-between;
+align-items: center;
+padding-bottom:30px;
+background-color: white;
+border-bottom-color: lightgray;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+margin-bottom:15px;
+border-right: 0;
+z-index: 100;
+
+
+
+
+}
+.icone-1{
+  height: 40px;
+  width: 40px;
+}
+.body{
+  margin:0;
+  
+}
+.left-section{
+  width: 250;
+  margin-right: 40px;
+}
+.right-section{
+  width: 200px;
+}
+
+.icone-1{
+  margin-right: 25px;
+  width: 50px;
+}
+.middle-section{
+  display:flex;
+  flex: 1;
+  padding-top: 10px;
+  width: 400px;
+  
+}
+
+.left-section{
+  display:flex;
+  align-items: center;
+  width:250px;
+}
+
+  
+
+.icon-search-bar{
+  border-radius: 2px;
+  border-width: 1px;
+  border-style:solid;
+  border-color: lightgray;
+  margin-left: -2px;
+  width: 70px;
+  height: 47.0.5px;
+}
+.search-bar:placeholder{
+  font-size: 25px;
+  
+}
+
+.voice-icon{
+  margin-left:10px;
+  height: 47px;
+  width: 56px;
+  border-radius: 55px;
+  border-color: none;
+  margin-right:20px;
+  
+}
+
+.right-section{
+  margin-right: 10px;
+  display:flex;
+  justify-content: space-between;
+  padding-left: px;
+  flex-shrink: 0;
+  width:250px;
+  
+}
+  
+  .search-bar:focus{
+  outline: none;
+    
+  }
+  .uplode-icon{
+    border-radius: 2px;
+    background-color: white;
+    height: 40px;
+    width: 40px;
+  }
+  .boxes-icon{
+    background-color: white;
+  }
+  .ganpalel-icon{
+    background-color: white;
+    position:relative;
+  }
+  .user-pichear{
+    height: 40px;
+    width: 40px;  
+  
+  }
+  .search-bar{
+    flex: 1;
+    align-items: center;
+    border-width: 1px;
+    border-style:solid;
+    border-color: rgb(192, 192, 192);
+    height: 34px;
+    font-size: 24px;
+    margin-left: 30px;
+    max-width:400px;
+    width:50%;
+    
+   
+    
+  }
+  .netvaction{
+    position:absolute;
+    top:2px;
+    right:5px;
+    background-color: red;
+    color:black;
+     font-size:8px;
+     font-family:arial;
+     font-weight:bold;
+     padding:2px 5px;
+     border-radius: 19px;
+  }
+  
